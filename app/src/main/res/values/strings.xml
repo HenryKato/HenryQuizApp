@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Henry Quiz App</string>
+    <string name="qtn_one">1. Which keyword is used to define a function in Kotlin?</string>
+    <string name="qtn_two">2. Which character is used in Kotlin for declaring inheritance between two classes</string>
+</resources>
